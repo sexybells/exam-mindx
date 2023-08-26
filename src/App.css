@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.wraper {
+  width: 50%;
+  margin: auto;
+}
+
+.menu-nav {
+  border-bottom: 1px solid #eeeeee;
+}
+.nav-link {
+  color: black !important;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+}
+
+.is-active {
+  border-bottom: 2px solid blue !important;
+}
+
+.todo {
+  display: flex;
+}
+
+.todo p {
+  margin-left: 10px;
+}
+
+.list-todo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  margin: 10px;
+}
+
+.form {
+  display: flex;
+  margin: 20px;
+}
+
+.form button {
+  margin-left: 20px;
+}
